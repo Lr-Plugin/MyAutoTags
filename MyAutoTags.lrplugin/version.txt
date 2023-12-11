@@ -1,4 +1,0 @@
-1.0.2           11.03.2022         Minor changes in the plugin interface.
-				    For stable operation, the plugin includes cURL.exe 
-1.1.0           06.07.2022 		 Now works under Mac OS	
-1.1.1           26.07.2022  The maximum number of keywords has been increased from 20 to 21	           
